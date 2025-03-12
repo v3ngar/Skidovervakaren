@@ -6,7 +6,8 @@ pandas
 matplotlib
 scikit-learn
 opencv-python
-pillow tqdm
+pillow
+tqdm
 ultralytics
 tensorflow_datasets
 imageio
